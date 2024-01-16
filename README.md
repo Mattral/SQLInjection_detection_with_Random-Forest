@@ -2,7 +2,7 @@
 
 ## Overview
 
-Simple demo project. This project implements a real-time SQL injection detection system using random forest algorithms. A trained machine learning model will predicts whether an SQL query is safe or potentially malicious.
+Simple demo project. This project implements a real-time SQL injection detection system using random forest algorithm. A trained machine learning model will predicts whether an SQL query is safe or potentially malicious.
 
 ## Setup
 
