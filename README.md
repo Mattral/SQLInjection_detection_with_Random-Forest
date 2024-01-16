@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is my very first machine learning project with python. This project implements a real-time SQL injection detection system using machine learning. A trained machine learning model will predicts whether an SQL query is safe or potentially malicious.
+Simple demo project. This project implements a real-time SQL injection detection system using machine learning. A trained machine learning model will predicts whether an SQL query is safe or potentially malicious.
 
 ## Setup
 
